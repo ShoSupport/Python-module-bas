@@ -1,2 +1,2 @@
-_call_function(Python_Cheak,{  })!
+_call_function(Cheak,{ "Логирование": (<%= wjagatye %>) })!
 <%= variable %> = _result_function()

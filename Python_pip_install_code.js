@@ -1,2 +1,2 @@
-_call_function(Python_pip_install,{ "Имя модуля": (<%= xzrlweuu %>) })!
+_call_function(pip_install,{ "Имя модуля": (<%= ieyhdjaq %>),"Логирование": (<%= cwiayjvq %>) })!
 <%= variable %> = _result_function()

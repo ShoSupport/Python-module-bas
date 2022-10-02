@@ -9,7 +9,7 @@
             ],
             "description": {
                 "en": "run_code",
-                "ru": "Запустить код"
+                "ru": "Выполнить код"
             },
             "interface": "Python_run_code_interface.js",
             "is_element": false,
@@ -104,7 +104,7 @@
     "localize": {
     },
     "major_version": 2,
-    "minor_version": 0,
+    "minor_version": 6,
     "modules": [
     ],
     "name": "Python"
